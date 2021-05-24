@@ -1,0 +1,1 @@
+alert("chao` mung` ban. den' voi' chung' toi")
